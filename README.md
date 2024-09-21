@@ -5,4 +5,6 @@ This repository contains code for experimentation with concepts of financial mat
 
 ## Files 
 1. Binomial Pricing Model: This file contains the Python implementation, along with an example, for the binomial pricing model for American and European call and put.
+
+2. Forwards-Futures Pricing Model: This file contains the Python implementation, along with examples, for Forwards and Futures price. 
    
